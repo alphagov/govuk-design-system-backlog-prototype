@@ -1,2 +1,3 @@
-# govuk-design-system-backlog-prototype
+# GOV.UK Design System: Backlog Prototype
+
 A prototype for an open backlog of styles, components and patterns for GOV.UK Design System
