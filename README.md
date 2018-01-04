@@ -7,9 +7,7 @@ New styles, components or patterns are assigned [GitHub issues](https://github.c
 The status of these issues is tracked in a [GitHub Project](https://github.com/alphagov/govuk-design-system-backlog-prototype/projects/3).
 
 <br>
-
 **[View the content backlog](https://github.com/alphagov/govuk-design-system-backlog-prototype/projects/3)**
-
 <br>
 
 ## How to contribute
