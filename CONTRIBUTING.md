@@ -11,7 +11,7 @@ You can discuss content in the Design System by commenting on issues via the [is
 Examples of useful comments include:
 
 - questions about the component or pattern
-- answers to questions posed by other contributors
+- answers to questions from other contributors
 - examples or demos of the component or pattern
 - research relating to the component or pattern
 - offers to develop a component or pattern
