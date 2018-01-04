@@ -1,4 +1,4 @@
-# Design System Acceptance Criteria
+# Design System Criteria
 
 Before being considered for inclusion in the Design System, components and patterns must be:
 
