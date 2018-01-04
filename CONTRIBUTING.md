@@ -34,7 +34,7 @@ You can see who's responsible for the development of a component or pattern by c
 
 If there are currently no assignees you can ask to be assigned in the comments section of the issue, or by emailing the [Design System Team](govuk-design-system-support@digital.cabinet-office.gov.uk). The team will contact you for more information.
 
-Once you've been assigned to an issue it's your responsibility to progress it to the point where it can be published in the Design System.
+If you've been assigned to an issue it's your responsibility to progress it to the point where it can be published in the Design System.
 
 
 ## Publishing new content
