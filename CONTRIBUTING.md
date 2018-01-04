@@ -2,6 +2,7 @@
 
 Before contributing, please read and adhere to the [GOV.UK Design System code of conduct](CODE_OF_CONDUCT.md).
 
+Here are some ways in which you can contribute:
 
 ## Discussing content
 
