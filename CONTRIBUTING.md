@@ -1,6 +1,9 @@
 # How to contribute
 
-By participating in this project, you agree to abide by the [GOV.UK Design System code of conduct](CODE_OF_CONDUCT.md).
+Before contributing, please read and adhere to the [GOV.UK Design System code of conduct](CODE_OF_CONDUCT.md).
+
+You can contribute to the development of content in the Design System by commenting on the issues in this repository, using the [issues list](https://github.com/alphagov/govuk-design-system-backlog/issues) or [content backlog](https://github.com/alphagov/govuk-design-system-backlog/projects/3) section. 
+
 
 ## Proposing new content
 
