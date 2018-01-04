@@ -2,6 +2,8 @@
 
 Before being considered for inclusion in the Design System, components and patterns must be:
 
+<br>
+
 | Standard | Description |
 | :------- | :---------- |
 | Useful   | It addresses a user need that’s shared by multiple services or products. |
