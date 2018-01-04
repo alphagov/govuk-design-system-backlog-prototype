@@ -6,5 +6,5 @@ This is a prototype for an open backlog of styles, components and patterns for G
 
 ## Contributing
 
-- [View our ccontribution guidelines](CONTRIBUTING.md)
+- [View our contribution guidelines](CONTRIBUTING.md)
 - [View our code of conduct](CODE_OF_CONDUCT.md)
