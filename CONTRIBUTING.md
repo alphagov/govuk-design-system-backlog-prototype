@@ -4,19 +4,8 @@ By participating in this project, you agree to abide by the [GOV.UK Design Syste
 
 ## Proposing a new style, component or pattern
 
-If you have an idea you can propose a new style, component or pattern.
+If you have an idea for a new style, component or pattern you can propose it by [raising an issue](https://github.com/alphagov/govuk-design-system-backlog/issues/new).
 
-We'll review proposals every fortnight to check that they meet the Design System standard.
+We'll review new issues every fortnight to check that they meet the [Design System criteria](CRITERIA.md).
 
-We'll add any proposals that meet the criteria to the 'Backlog' column on our project board.
-
-## Developing a new style, component or pattern
-
-Use the issue as a place to:
-
-- link to work in progress
-- record the results of research
-- invite feedback from the community
-- let people know when the work will be done
-
-Before the work is published in the design system it must meet the Design System standard.
+Proposals that meet the criteria will be moved to the 'Agreed' column on our [content backlog](https://github.com/alphagov/govuk-design-system-backlog/projects/3).
