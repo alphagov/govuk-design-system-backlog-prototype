@@ -1,22 +1,22 @@
-# Code of Conduct
+# Code of conduct
 
 ## 1. Purpose
 
 A primary goal of the GOV.UK Design System is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 
-This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
+This Code of conduct outlines our expectations for all those who participate in this community, as well as the consequences for unacceptable behavior.
 
 We invite all those who participate in the GOV.UK Design System to help us create safe and positive experiences for everyone.
 
-## 2. Open Source Citizenship
+## 2. Open source citizenship
 
-A supplemental goal of this Code of Conduct is to increase open source citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
+A supplemental goal of this Code of conduct is to increase open source citizenship by encouraging participants to recognise and strengthen the relationships between our actions and their effects on our community.
 
 Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society.
 
 If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know.
 
-## 3. Expected Behavior
+## 3. Expected behavior
 
 The following behaviors are expected and requested of all community members:
 
@@ -38,38 +38,38 @@ The following behaviors are considered harassment and are unacceptable within ou
 *   Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
 *   Inappropriate photography or recording.
 *   Inappropriate physical contact. You should have someone’s consent before touching them.
-*   Unwelcome sexual attention. This includes, sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
+*   Unwelcome sexual attention. This includes, sexualised comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
 *   Deliberate intimidation, stalking or following (online or in person).
 *   Advocating for, or encouraging, any of the above behavior.
 *   Sustained disruption of community events, including talks and presentations.
 
-## 5. Consequences of Unacceptable Behavior
+## 5. Consequences of unacceptable behavior
 
 Unacceptable behavior from any community member, including sponsors and those with decision-making authority, will not be tolerated.
 
 Anyone asked to stop unacceptable behavior is expected to comply immediately.
 
-If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event).
+If a community member engages in unacceptable behavior, the community organisers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event).
 
-## 6. Reporting Guidelines
+## 6. Reporting guidelines
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. govuk-design-system-support@digital.cabinet-office.gov.uk.
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organiser as soon as possible. govuk-design-system-support@digital.cabinet-office.gov.uk.
 
 
 
-Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
+Additionally, community organisers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organisers will also provide escorts as desired by the person experiencing distress.
 
-## 7. Addressing Grievances
+## 7. Addressing grievances
 
-If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify Government Digital Service with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies.
+If you feel you have been falsely or unfairly accused of violating this Code of conduct, you should notify Government Digital Service with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies.
 
 
 
 ## 8. Scope
 
-We expect all community participants (contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all community venues–online and in-person–as well as in all one-on-one communications pertaining to community business.
+We expect all community participants (contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of conduct in all community venues–online and in-person–as well as in all one-to-one communications pertaining to community business.
 
-This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.
+This Code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to adversely affect the safety and wellbeing of community members.
 
 ## 9. Contact info
 
@@ -77,7 +77,7 @@ govuk-design-system-support@digital.cabinet-office.gov.uk
 
 ## 10. License and attribution
 
-This Code of Conduct is distributed under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/).
+This Code of conduct is distributed under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/).
 
 Portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
 
