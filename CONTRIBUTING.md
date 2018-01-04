@@ -30,7 +30,7 @@ Issues that meet the criteria will be moved to the 'Agreed' column on the [conte
 
 ## Developing new content
 
-You can see who's responsible for the development of a specific component or pattern by checking the 'Assignees' section of it's issue.
+You can see who's responsible for the development of a component or pattern by checking the 'Assignees' section of it's issue.
 
 If there are currently no assignees you can ask to be assigned in the comments section of the issue, or by emailing the [Design System Team](govuk-design-system-support@digital.cabinet-office.gov.uk). The team will contact you for more information.
 
