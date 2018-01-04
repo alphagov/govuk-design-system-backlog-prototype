@@ -17,7 +17,7 @@ Examples of useful comments include:
 - offers to develop a component or pattern
 
 
-## Proposing new content
+## Proposing content
 
 If you have an idea for a new style, component or pattern you can propose it by [raising an issue](https://github.com/alphagov/govuk-design-system-backlog/issues/new).
 
@@ -28,7 +28,7 @@ We'll review new issues every fortnight to check that they meet the [Design Syst
 Issues that meet the criteria will be moved to the 'Agreed' column on the [content backlog](https://github.com/alphagov/govuk-design-system-backlog/projects/3).
 
 
-## Developing new content
+## Developing content
 
 You can see who's responsible for the development of a component or pattern by checking the 'Assignees' section of it's issue.
 
@@ -37,7 +37,7 @@ If there are currently no assignees you can ask to be assigned in the comments s
 If you've been assigned to an issue it's your responsibility to progress it to the point where it can be published in the Design System.
 
 
-## Publishing new content
+## Publishing content
 
 Before something can be published in the Design System it must meet the [Design System criteria](CRITERIA.md).
 
