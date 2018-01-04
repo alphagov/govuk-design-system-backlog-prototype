@@ -7,6 +7,8 @@ Before being considered for inclusion in the Design System, components and patte
 | Useful   | It addresses a user need that’s shared by multiple services or products. |
 | Unique   | It doesn’t duplicate something which already exists in the Design System, unless it’s intended to replace it. |
 
+<br>
+
 Before publication into the Design System, components and patterns must be:
 
 | Standard     | Description |
