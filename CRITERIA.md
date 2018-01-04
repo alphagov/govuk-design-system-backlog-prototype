@@ -1,8 +1,8 @@
 # Design System Criteria
 
-Before being considered for inclusion in the Design System, components and patterns must be:
-
 <br>
+
+Before being considered for inclusion in the Design System, components and patterns must be:
 
 | Standard | Description |
 | :------- | :---------- |
