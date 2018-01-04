@@ -12,4 +12,4 @@ The status of these issues is tracked in a [GitHub Project](https://github.com/a
 
 ## How to contribute
 
-Please take the time to read our [contribution guidelines](CONTRIBUTING.md) and [code of conduct](CODE_OF_CONDUCT.md).
+Before contributing, please take the time to read our [contribution guidelines](CONTRIBUTING.md) and [code of conduct](CODE_OF_CONDUCT.md).
