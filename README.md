@@ -10,6 +10,4 @@ The status of these issues is tracked in a [GitHub Project](https://github.com/a
 
 ## How to contribute
 
-GOV.UK Design System is an open source project and we welcome contributions.
-
-Before raiseing an issue, please take the time to read our [contribution guidelines](CONTRIBUTING.md) and [code of conduct](CODE_OF_CONDUCT.md).
+Please take the time to read our [contribution guidelines](CONTRIBUTING.md) and [code of conduct](CODE_OF_CONDUCT.md).
