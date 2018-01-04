@@ -1,8 +1,10 @@
 # GOV.UK Design System Content Backlog [PROTOTYPE]
 
-The issues in this repository are used to manage the development of new content for the [GOV.UK Design System](https://github.com/alphagov/govuk-design-system).
+This repository is used to manage the development of new content for the [GOV.UK Design System](https://github.com/alphagov/govuk-design-system).
 
-### [View the backlog](https://github.com/alphagov/govuk-design-system-backlog-prototype/projects/3)
+New styles, components or patterns are assigned [GitHub issues](https://github.com/alphagov/govuk-design-system-backlog/issues), and the status of these is tracked in a [GitHub Project](https://github.com/alphagov/govuk-design-system-backlog-prototype/projects/3).
+
+### [View the content backlog](https://github.com/alphagov/govuk-design-system-backlog-prototype/projects/3)
 
 ## How to contribute
 
