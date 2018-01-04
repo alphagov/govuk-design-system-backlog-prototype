@@ -8,6 +8,8 @@ The status of these issues is tracked in a [GitHub Project](https://github.com/a
 
 **[View the content backlog](https://github.com/alphagov/govuk-design-system-backlog-prototype/projects/3)**
 
+<br><br>
+
 ## How to contribute
 
 Please take the time to read our [contribution guidelines](CONTRIBUTING.md) and [code of conduct](CODE_OF_CONDUCT.md).
