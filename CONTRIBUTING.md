@@ -16,9 +16,9 @@ Issues that meet the criteria will be moved to the 'Agreed' column on the [conte
 
 Once an issue is in the 'Agreed' column you're free to contribute by adding comments.
 
-Useful contributions include links to:
+Examples of useful contributions include:
 
-- examples of the component or pattern already in use on GOV.UK
+- examples or demos of the component or pattern
 - research relating to the component or pattern
-- demos of components
+- questions about the component or pattern
 - answers to questions posed by other contributors
