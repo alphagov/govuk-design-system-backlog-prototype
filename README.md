@@ -4,6 +4,7 @@ This is a prototype for an open backlog of styles, components and patterns for G
 
 ### [View the backlog](https://github.com/alphagov/govuk-design-system-backlog-prototype/projects/3)
 
-### Contributing
+## Contributing
 
-[View our code of conduct](CODE_OF_CONDUCT.md)
+- [View our ccontribution guidelines](CONTRIBUTING.md)
+- [View our code of conduct](CODE_OF_CONDUCT.md)
