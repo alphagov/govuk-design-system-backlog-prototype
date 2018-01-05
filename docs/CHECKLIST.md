@@ -1,4 +1,4 @@
-# Design System Criteria
+# Design System Checklist
 
 <br>
 
