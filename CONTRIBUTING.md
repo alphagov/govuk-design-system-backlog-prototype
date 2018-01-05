@@ -6,7 +6,7 @@ Here are some ways in which you can contribute:
 
 ## Discussing content
 
-You can discuss the content being developed by commenting on issues via the [issues list](https://github.com/alphagov/govuk-design-system-backlog/issues) or [content backlog](https://github.com/alphagov/govuk-design-system-backlog/projects/3).
+You can discuss the content being developed here by commenting on issues via the [issues list](https://github.com/alphagov/govuk-design-system-backlog/issues) or [content backlog](https://github.com/alphagov/govuk-design-system-backlog/projects/3).
 
 Examples of useful comments include:
 
