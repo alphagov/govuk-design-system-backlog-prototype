@@ -23,7 +23,7 @@ If you have an idea for a new style, component or pattern you can propose it by 
 
 New issues will appear in the 'Proposed' column of the [content backlog](https://github.com/alphagov/govuk-design-system-backlog/projects/3).
 
-The [Design System working group](WORKING_GROUP.MD) will review new issues every fortnight to check that they meet the [Design System criteria](CRITERIA.md).
+The [Design System working group](WORKING_GROUP.MD) will review new issues every fortnight against the [Design System criteria](CRITERIA.md).
 
 Issues that meet the criteria will be moved to the 'Agreed' column on the [content backlog](https://github.com/alphagov/govuk-design-system-backlog/projects/3).
 
