@@ -36,6 +36,8 @@ If there are currently no assignees you can ask to be assigned in the comments s
 
 If you've been assigned to an issue it's your responsibility to progress it to the point where it can be published in the Design System.
 
+If you can no longer support the development of something, let the [Design System Team](govuk-design-system-support@digital.cabinet-office.gov.uk) know and they'll arrange for someone else to be assigned to it.
+
 
 ## Publishing content
 
