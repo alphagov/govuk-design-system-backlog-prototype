@@ -39,9 +39,7 @@ If you've been assigned to an issue it's your responsibility to progress it to t
 
 ## Publishing content
 
-If you're assigned to an issue and believe it's ready to be published, add a 'ready' label to it.
-
-The Design System Team will review the issue and work with you to prepare it for assurance by the [Design System working group](WORKING_GROUP.MD).
+If you're assigned to an issue and believe it's ready to be published, add a 'ready' label to it. The Design System Team will review the issue and work with you to prepare it for assurance by the [Design System working group](WORKING_GROUP.MD).
 
 Once the working group has assured the issue it will be published in the Design System.
 
