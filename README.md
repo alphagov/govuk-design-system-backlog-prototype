@@ -1,4 +1,4 @@
-# GOV.UK Design System Content Backlog
+# GOV.UK Design System Content
 
 This repository is used to manage the development of new content for the [GOV.UK Design System](https://github.com/alphagov/govuk-design-system)
 
