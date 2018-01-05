@@ -23,9 +23,9 @@ If you have an idea for a new style, component or pattern you can propose it by 
 
 New issues will appear in the 'Proposed' column of the [content backlog](https://github.com/alphagov/govuk-design-system-backlog/projects/3).
 
-The [Design System working group](WORKING_GROUP.MD) will review new issues every fortnight against the [Design System criteria](CRITERIA.md).
+The [Design System working group](WORKING_GROUP.MD) will review new issues every fortnight against the [Design System checklist](CHECKLIST.md).
 
-Issues that meet the criteria will be moved to the 'Agreed' column on the [content backlog](https://github.com/alphagov/govuk-design-system-backlog/projects/3).
+Issues that follow the checklist will be moved to the 'Agreed' column on the [content backlog](https://github.com/alphagov/govuk-design-system-backlog/projects/3).
 
 
 ## Developing content
@@ -41,6 +41,6 @@ If you've been assigned to an issue it's your responsibility to progress it to t
 
 If you're assigned to something and believe it's ready to be published, add a 'ready' label to it's issue. The Design System Team will review the issue and work with you to prepare it for assurance by the [Design System working group](WORKING_GROUP.md).
 
-The working group will review the issue against the [Design System criteria](CRITERIA.md). Once the criteria have been met your work will be published in the Design System.
+The working group will review the issue against the [Design System checklist](CRITERIA.md). Once the checklist has been met your work will be published in the Design System.
 
 
