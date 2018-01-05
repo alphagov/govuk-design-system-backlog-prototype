@@ -41,6 +41,6 @@ If you've been assigned to an issue it's your responsibility to progress it to t
 
 If you're assigned to something and believe it's ready to be published, add a 'ready' label to it's issue. The Design System Team will review the issue and work with you to prepare it for assurance by the [Design System working group](WORKING_GROUP.md).
 
-The working group will review the issue against the [Design System checklist](CRITERIA.md). Once the checklist has been met your work will be published in the Design System.
+The working group will review the issue against the [Design System checklist](CHECKLIST.md). Once the checklist has been met your work will be published in the Design System.
 
 
