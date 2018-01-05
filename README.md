@@ -9,4 +9,4 @@ The status of these issues is tracked in a [GitHub Project](https://github.com/a
 
 ## Contributing
 
-[Read our contribution guidelines](CONTRIBUTING.md)
+[Read our contribution guidelines](docs/CONTRIBUTING.md)
