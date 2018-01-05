@@ -6,14 +6,14 @@ Here are some ways in which you can contribute:
 
 ## Discussing content
 
-You can discuss content in the Design System by commenting on issues via the [issues list](https://github.com/alphagov/govuk-design-system-backlog/issues) or [content backlog](https://github.com/alphagov/govuk-design-system-backlog/projects/3).
+You can discuss the content being developed by commenting on issues via the [issues list](https://github.com/alphagov/govuk-design-system-backlog/issues) or [content backlog](https://github.com/alphagov/govuk-design-system-backlog/projects/3).
 
 Examples of useful comments include:
 
-- questions about the component or pattern
+- questions about a component or pattern
 - answers to questions from other contributors
-- examples or demos of the component or pattern
-- research relating to the component or pattern
+- examples or demos of a component or pattern
+- research relating to a component or pattern
 - offers to develop a component or pattern
 
 
@@ -23,7 +23,7 @@ If you have an idea for a new style, component or pattern you can propose it by 
 
 New issues will appear in the 'Proposed' column of the [content backlog](https://github.com/alphagov/govuk-design-system-backlog/projects/3).
 
-We'll review new issues every fortnight to check that they meet the [Design System criteria](CRITERIA.md).
+The [Design System working group](WORKING_GROUP.MD) will review new issues every fortnight to check that they meet the [Design System criteria](CRITERIA.md).
 
 Issues that meet the criteria will be moved to the 'Agreed' column on the [content backlog](https://github.com/alphagov/govuk-design-system-backlog/projects/3).
 
