@@ -9,4 +9,4 @@ Styles, components or patterns are assigned [GitHub issues](https://github.com/a
 
 ## Contributing
 
-[Read our contribution guidelines](docs/CONTRIBUTING.md)
+[Read our contribution guidelines](CONTRIBUTING.md)
