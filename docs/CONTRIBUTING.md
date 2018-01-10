@@ -30,11 +30,11 @@ Issues that follow the checklist will be moved to the 'Agreed' column on the [co
 
 ## Developing content
 
-The 'Agreed' column of the [content backlog](https://github.com/alphagov/govuk-design-system-backlog/projects/3) contains things that are ready to be developed. You can see who's been assigned to something in the 'Assignees' section of the issue.
+Content in the 'Agreed' column of the [content backlog](https://github.com/alphagov/govuk-design-system-backlog/projects/3) is ready to be developed.
 
-Assigness are responsible for progressing the item. They may be doing the work themselves, or coordinating the work of others. If you'd like to contribute to the devlopment of something, the assignees will be able to tell you how you can help.
+If someone has been assigned to an item they will appear under the 'Assignees' section. Assigness are responsible for progressing the development of new components and patterns. They may be doing the work themselves, or coordinating the contributions of others.
 
-You can ask to be assigned to an issue in it's comments section, or by emailing the [Design System Team](govuk-design-system-support@digital.cabinet-office.gov.uk). The team will contact you for more information.
+You can ask to be assigned to an issue by leaving a comment, or by emailing the [Design System Team](govuk-design-system-support@digital.cabinet-office.gov.uk). The team will contact you for more information.
 
 If you can no longer support the development of something, let the [Design System Team](govuk-design-system-support@digital.cabinet-office.gov.uk) know and we'll arrange for someone else to be assigned to it.
 
