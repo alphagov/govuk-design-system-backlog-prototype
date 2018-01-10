@@ -30,11 +30,13 @@ Issues that follow the checklist will be moved to the 'Agreed' column on the [co
 
 ## Developing content
 
-You can see who's responsible for the development of a component or pattern by checking the 'Assignees' section of it's issue.
+The 'Agreed' column of the [content backlog](https://github.com/alphagov/govuk-design-system-backlog/projects/3) contains things that are ready to be developed. You can see who's been assigned to something in the 'Assignees' section of the issue.
 
-If there are currently no assignees you can ask to be assigned in the comments section of the issue, or by emailing the [Design System Team](govuk-design-system-support@digital.cabinet-office.gov.uk). The team will contact you for more information.
+Assigness are responsible for progressing the item. They may be doing the work themselves, or coordinating the work of others. If you'd like to contribute to the devlopment of something, the assignees will be able to tell you how you can help.
 
-If you've been assigned to an issue it's your responsibility to progress it to the point where it can be published in the Design System. If you can no longer support the development of something, let the [Design System Team](govuk-design-system-support@digital.cabinet-office.gov.uk) know and we'll arrange for someone else to be assigned to it.
+You can ask to be assigned to an issue in it's comments section, or by emailing the [Design System Team](govuk-design-system-support@digital.cabinet-office.gov.uk). The team will contact you for more information.
+
+If you can no longer support the development of something, let the [Design System Team](govuk-design-system-support@digital.cabinet-office.gov.uk) know and we'll arrange for someone else to be assigned to it.
 
 
 ## Publishing content
