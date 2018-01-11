@@ -4,9 +4,9 @@ Before contributing, please read and adhere to the [GOV.UK Design System code of
 
 Here are some ways in which you can contribute:
 
-## Discussing content
+## Discussing styles, components and patterns
 
-You can discuss the content being developed here by commenting on issues via the [issues list](https://github.com/alphagov/govuk-design-system-backlog/issues) or [content backlog](https://github.com/alphagov/govuk-design-system-backlog/projects/3).
+You can discuss the work being developed here by commenting on issues via the [issues list](https://github.com/alphagov/govuk-design-system-backlog/issues) or [content backlog](https://github.com/alphagov/govuk-design-system-backlog/projects/3).
 
 Examples of useful comments include:
 
@@ -17,7 +17,7 @@ Examples of useful comments include:
 - offers to develop a component or pattern
 
 
-## Proposing content
+## Proposing new styles, components or patterns
 
 If you have an idea for a new style, component or pattern you can propose it by [raising an issue](https://github.com/alphagov/govuk-design-system-backlog/issues/new).
 
@@ -28,18 +28,18 @@ The [Design System working group](WORKING_GROUP.MD) will review new issues every
 Issues that follow the checklist will be moved to the 'Agreed' column on the [content backlog](https://github.com/alphagov/govuk-design-system-backlog/projects/3).
 
 
-## Developing content
+## Developing styles, components and patterns
 
-Content in the 'Agreed' column of the [content backlog](https://github.com/alphagov/govuk-design-system-backlog/projects/3) is ready to be developed.
+Items in the 'Agreed' column of the [content backlog](https://github.com/alphagov/govuk-design-system-backlog/projects/3) are ready to be developed.
 
-If someone has been assigned to an item they will appear under the 'Assignees' section. Assigness are responsible for progressing the development of new components and patterns. They may be doing the work themselves, or coordinating the contributions of others.
+If someone has been assigned to an item they will appear under the 'Assignees' section. Assigness are responsible for progressing the development of new styles, components and patterns. They may be doing the work themselves, or coordinating the contributions of others.
 
 You can ask to be assigned to an issue by leaving a comment, or by emailing the [Design System Team](govuk-design-system-support@digital.cabinet-office.gov.uk). The team will contact you for more information.
 
 If you can no longer support the development of something, let the [Design System Team](govuk-design-system-support@digital.cabinet-office.gov.uk) know and we'll arrange for someone else to be assigned to it.
 
 
-## Publishing content
+## Publishing styles, components or patterns
 
 If you're assigned to something and believe it's ready to be published, add a 'ready' label to it's issue. The Design System Team will review the issue and work with you to prepare it for assurance by the [Design System working group](WORKING_GROUP.md).
 
